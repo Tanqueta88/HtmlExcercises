@@ -9,7 +9,7 @@ namespace Clase3.Models
     {
         public string Gender { get; set; }
         public string Name { get; set; }
-        public int year { get; set; }
+        public int Year { get; set; }
         public Clasification Clasif { get; set; }
         public bool IsMultiplayer { get; set; }
     }
