@@ -1,11 +1,25 @@
 import { Injectable } from '@angular/core';
+import { Auto } from '../models/auto';  
 
 @Injectable({
   providedIn: 'root'
 })
 export class AutosService {
+  allAutos: Auto [] = [];
 
-  constructor() { }
+  constructor() {}
+
+  getAutos(){
+    return this.allAutos = autosDetails.slice(0);
+  }
+
+  getAutosById(idBuscado: number){
+    return autosDetails.slice(0).find(auto => auto.id = idBuscado);
+  }
+
+  getAutosByNombreMarca(nombreMarca: string){
+    return autosDetails.slice(0).find(auto => auto.nombre = nombreMarca);
+  }
 }
 
 const autosDetails = [
