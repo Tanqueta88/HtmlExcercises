@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyClase3Cuenta/1.0.0": {
+        "runtime": {
+          "ProyClase3Cuenta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyClase3Cuenta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

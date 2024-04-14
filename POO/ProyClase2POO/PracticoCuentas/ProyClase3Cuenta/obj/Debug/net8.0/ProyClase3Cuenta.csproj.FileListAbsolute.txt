@@ -1,0 +1,14 @@
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\bin\Debug\net8.0\ProyClase3Cuenta.exe
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\bin\Debug\net8.0\ProyClase3Cuenta.deps.json
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\bin\Debug\net8.0\ProyClase3Cuenta.runtimeconfig.json
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\bin\Debug\net8.0\ProyClase3Cuenta.dll
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\bin\Debug\net8.0\ProyClase3Cuenta.pdb
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\ProyClase3Cuenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\ProyClase3Cuenta.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\ProyClase3Cuenta.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\ProyClase3Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\ProyClase3Cuenta.dll
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\refint\ProyClase3Cuenta.dll
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\ProyClase3Cuenta.pdb
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\ProyClase3Cuenta.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\Practicos\ProyClase3Cuenta\obj\Debug\net8.0\ref\ProyClase3Cuenta.dll
