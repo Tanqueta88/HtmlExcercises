@@ -1,0 +1,14 @@
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\bin\Debug\net8.0\ProyClase1POO.exe
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\bin\Debug\net8.0\ProyClase1POO.deps.json
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\bin\Debug\net8.0\ProyClase1POO.runtimeconfig.json
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\bin\Debug\net8.0\ProyClase1POO.dll
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\bin\Debug\net8.0\ProyClase1POO.pdb
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\ProyClase1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\ProyClase1POO.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\ProyClase1POO.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\ProyClase1POO.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\ProyClase1POO.dll
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\refint\ProyClase1POO.dll
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\ProyClase1POO.pdb
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\ProyClase1POO.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Documentos\CURSOS\POO\ProyClase1POO\obj\Debug\net8.0\ref\ProyClase1POO.dll
